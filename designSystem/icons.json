@@ -1,0 +1,8 @@
+{
+  "$schema": "https://schemas.tokens.studio/tokens.schema.json",
+  "$description": "Fincaree design system icon tokens",
+  "modes": {
+    "Dark": { "Icon": { "Size": { "XS": 12, "SM": 16, "MD": 20, "LG": 24, "XL": 32, "2XL": 40 }, "Weight": { "Regular": 1.5, "Bold": 2, "Strong": 2.5 } } },
+    "Light": { "Icon": { "Size": { "XS": 12, "SM": 16, "MD": 20, "LG": 24, "XL": 32, "2XL": 40 }, "Weight": { "Regular": 1.5, "Bold": 2, "Strong": 2.5 } } }
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "$collection": "3.Spacing",
+  "Spacing/0": { "$value": 0, "$type": "dimension" }, "Spacing/25": { "$value": 2, "$type": "dimension" }, "Spacing/50": { "$value": 4, "$type": "dimension" }, "Spacing/75": { "$value": 6, "$type": "dimension" }, "Spacing/100": { "$value": 8, "$type": "dimension" }, "Spacing/150": { "$value": 12, "$type": "dimension" }, "Spacing/200": { "$value": 16, "$type": "dimension" }, "Spacing/250": { "$value": 20, "$type": "dimension" }, "Spacing/300": { "$value": 24, "$type": "dimension" }, "Spacing/400": { "$value": 32, "$type": "dimension" }, "Spacing/500": { "$value": 40, "$type": "dimension" }, "Spacing/600": { "$value": 48, "$type": "dimension" }, "Spacing/700": { "$value": 56, "$type": "dimension" }, "Spacing/800": { "$value": 64, "$type": "dimension" }, "Spacing/900": { "$value": 72, "$type": "dimension" }, "Spacing/1000": { "$value": 80, "$type": "dimension" }, "Spacing/1200": { "$value": 96, "$type": "dimension" }
+}
